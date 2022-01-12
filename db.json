@@ -1,0 +1,64 @@
+{
+    "auncios": [
+        {
+            "_id": "61df376397069d03e8493bd6",
+            "id": 1,
+            "data": "07/01/2021",
+            "quilometragem": 100,
+            "status": 1,
+            "modelo": "Ford Ka Hatch",
+            "categoria": "K HATCH 1.0",
+            "valor": 49600,
+            "anoDoModelo": "2019/2020",
+            "horasRestantes": 12
+        },
+        {
+            "_id": "61df378097069d03e8493bd7",
+            "id": 1,
+            "data": "07/01/2021",
+            "quilometragem": 100,
+            "status": 1,
+            "modelo": "Ford Ka Hatch",
+            "categoria": "K HATCH 1.0",
+            "valor": 49600,
+            "anoDoModelo": "2019/2020",
+            "horasRestantes": 12
+        },
+        {
+            "_id": "61df378897069d03e8493bd8",
+            "id": 1,
+            "data": "07/01/2021",
+            "quilometragem": 100,
+            "status": 1,
+            "modelo": "Ford Ka Hatch",
+            "categoria": "K HATCH 1.0",
+            "valor": 49600,
+            "anoDoModelo": "2019/2020",
+            "horasRestantes": 12
+        },
+        {
+            "_id": "61df382797069d03e8493bdb",
+            "id": 1,
+            "data": "07/01/2021",
+            "quilometragem": 100,
+            "status": 2,
+            "modelo": "Ford Ka Hatch",
+            "categoria": "K HATCH 1.0",
+            "valor": 49600,
+            "anoDoModelo": "2019/2020",
+            "horasRestantes": 12
+        },
+        {
+            "_id": "61df389c97069d03e8493be1",
+            "id": 1,
+            "data": "07/01/2021",
+            "quilometragem": 100,
+            "status": 3,
+            "modelo": "Ford Ka Hatch",
+            "categoria": "K HATCH 1.0",
+            "valor": 49600,
+            "anoDoModelo": "2019/2020",
+            "horasRestantes": 12
+        }
+    ]
+}
